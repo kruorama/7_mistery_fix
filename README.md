@@ -37,7 +37,7 @@ OK
 ### Программное использование
 ```
 from quadratic_equation import get_roots
-root1, root2 = quadratic_equation.get_roots(1, 2, 4)
+root1, root2 = get_roots(1, 2, 4)
 ```
 
 ### Цели проекта
